@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "Cover_img": "https://i.ibb.co/3Wb4vgt/fotis-fotopoulos-6s-Al6a-Q4-OWI-unsplash.jpg",
+        "author_img": "https://i.ibb.co/wByz0vk/photo-1557862921-37829c790f19-ixlib-rb-4-0.jpg",
+        "author_name": "Mr Raju",
+        "posted_date": "May 14",
+        "reading_time": 10,
+        "post_title": "How to get your first job as a selftaught programmer",
+        "hash_tag": ["#beginners",  " ",  " ",  " ", "#programming"]
+    },
+
+    {
+        "id": 2,
+        "Cover_img": "https://i.ibb.co/WfgY0gx/photo-1537432376769-00f5c2f4c8d2-ixlib-rb-4-0.jpg",
+        "author_img": "https://i.ibb.co/jTNBCNm/photo-1564564321837-a57b7070ac4f-ixlib-rb-4-0.jpg",
+        "author_name": "Mrs Setara",
+        "posted_date": "May 14",
+        "reading_time": 10,
+        "post_title": "How to get your first job as a selftaught programmer",
+        "hash_tag": ["#beginners",  " ",  " ",  " ",  "#programming"]
+    },
+
+    {
+        "id": 3,
+        "Cover_img": "https://i.ibb.co/HN1NcwL/photo-1510915228340-29c85a43dcfe-ixlib-rb-4-0.jpg",
+        "author_img": "https://i.ibb.co/YfwhdJP/photo-1596075780750-81249df16d19-ixlib-rb-4-0.jpg",
+        "author_name": "Mrs Mina",
+        "posted_date": "14 March",
+        "reading_time": 12,
+        "post_title": "How to get your first job as a selftaught programmer",
+        "hash_tag": ["#beginners",  " ",  " ",  " ", "#programming"]
+    },
+
+    {
+        "id": 4,
+        "Cover_img": "https://i.ibb.co/G7R93X7/premium-photo-1683140655656-20448abc55da-ixlib-rb-4-0.jpg",
+        "author_img": "https://i.ibb.co/mDWnkpK/photo-1508341591423-4347099e1f19-ixlib-rb-4-0.jpg",
+        "author_name": "Mrs Brown",
+        "posted_date": "14 Sept",
+        "reading_time": 7,
+        "post_title": "Healthy Eating Habits",
+        "hash_tag": ["#beginners",  " ",  " ",  " ", "#programming"]
+    },
+
+    {
+        "id": 5,
+        "Cover_img": "https://i.ibb.co/Nxy64d3/premium-photo-1663023612721-e588768ef403-ixlib-rb-4-0.jpg",
+        "author_img": "https://i.ibb.co/7K1JcZZ/photo-1496345875659-11f7dd282d1d-ixlib-rb-4-0.jpg",
+        "author_name": "Mr David ",
+        "posted_date": "13 Sept",
+        "reading_time": 9,
+        "post_title": "Blockchain Technology: Revolutionizing Finance",
+        "hash_tag": ["#beginners ", " ",  " ",  " ",  " ",   " #programming"]
+    }
+          
+]
+  

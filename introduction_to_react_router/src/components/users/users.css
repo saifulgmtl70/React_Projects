@@ -1,0 +1,25 @@
+.user_container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+}
+
+
+
+@media screen and (max-width: 890px) {
+    .user_container{
+
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+    
+}
+
+@media screen and (max-width: 650px) {
+    .user_container{
+
+        grid-template-columns: 1fr;
+
+    }
+    
+}

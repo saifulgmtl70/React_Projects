@@ -1,0 +1,91 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/yNq2gH2/photo-1519389950473-47ba0277781c-ixlib-rb-4-0.jpg",
+      "Course_Name": "Software Wizardry: Mastering Development and Programming Skills",
+      "Category_Name": "Software and Prograaming",
+      "Price": 100,
+      "Description": "Our Development & Programming courses are your gateway to the world of coding and software development. Master languages like Python, Java, and JavaScript, and learn to create dynamic web applications and software solutions. Whether you're a beginner or an experienced coder, our comprehensive courses cater to all skill levels, ensuring you stay at the forefront of technology and innovation.",
+      "Author":"Ali Abbas",
+      "Author_Img": "https://i.ibb.co/4KkrxjN/portrait-happy-smiley-man-23-2149022627.jpg",
+      "Author_Designation": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/YN9t3hL/cover-2.jpg",
+      "Course_Name": "Digital Marketing Mastery: Strategies for Online Success",
+      "Category_Name": "Marketing",
+      "Price": 140,
+      "Description": "Elevate your career with our Marketing courses, covering digital marketing, social media strategies, SEO, and data analytics. Gain the skills to drive business growth and increase brand visibility in the ever-evolving marketing landscape. Stay competitive and make data-driven decisions to excel in the dynamic world of marketing.",
+      "Author":"Adnan",
+      "Author_Img": "https://i.ibb.co/4KkrxjN/portrait-happy-smiley-man-23-2149022627.jpg",
+      "Author_Designation": "Marketng Exparts"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/PC4r1Sc/photo-1553484771-371a605b060b-ixlib-rb-4-0.jpg",
+      "Course_Name": "Strategic Business Leadership: Navigating Markets and Maximizing Profits",
+      "Category_Name": "Business",
+      "Price": 200,
+      "Description": "Explore the intricacies of business and economics with our courses. From understanding economic principles and financial strategies to delving into entrepreneurship and market dynamics, our programs equip you with essential skills for success in the corporate world. Whether you're an aspiring entrepreneur or a seasoned professional, our courses provide valuable insights and knowledge.",
+      "Author":"Akiash Ali",
+      "Author_Img": "https://i.ibb.co/4KkrxjN/portrait-happy-smiley-man-23-2149022627.jpg",
+      "Author_Designation": "Business Owner"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/r2j52n5/photo-1611321005716-9d27ee59c0ee-ixlib-rb-4-0.jpg",
+      "Course_Name": "Verbal Symphony: The Poetry of Languag",
+      "Category_Name": "Language and Literature",
+      "Price": 210,
+      "Description": "Enhance your communication, literary analysis, and writing skills with our Language Arts courses. Immerse yourself in classic and contemporary literature, honing your ability to express ideas eloquently. Whether you're an aspiring writer, a literature enthusiast, or someone looking to improve language proficiency, our courses offer a rich and engaging learning experience.",
+      "Author":"Rahmat Shah",
+      "Author_Img": "https://i.ibb.co/4KkrxjN/portrait-happy-smiley-man-23-2149022627.jpg",
+      "Author_Designation": "University Teacher"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/98Vc8tp/photo-1504639725590-34d0984388bd-ixlib-rb-4-0.jpg",
+      "Course_Name": "Mastering Algorithms and Data Structures: A Comprehensive Guide",
+      "Category_Name": "Computer Science",
+      "Price": 110,
+      "Description": "Explore the core principles of Computer Science through our courses. Covering algorithms, data structures, and software development, our programs empower you to sharpen problem-solving abilities and master programming languages. Whether you're a novice or an experienced coder, our courses provide the knowledge and skills needed to excel in a technology-driven world.",
+      "Author":"Mr.Noman Ali",
+      "Author_Img": "https://i.ibb.co/4KkrxjN/portrait-happy-smiley-man-23-2149022627.jpg",
+      "Author_Designation": "Software Developer"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/pbCMSWS/premium-photo-1681842163457-26303db2ef5c-ixlib-rb-4-0.jpg",
+      "Course_Name": "Holistic Fitness and Wellness: Achieving Balance and Health",
+      "Category_Name": "Physical Education",
+      "Price": 170,
+      "Description": "Prioritize your health and well-being with our Physical Education courses. Dive into the science of fitness, exercise, and nutrition. Learn to create personalized workout routines and dietary plans to help you achieve your wellness goals. Whether you're an athlete, a fitness enthusiast, or simply seeking a healthier lifestyle, our courses provide the knowledge to lead a balanced and active life.",
+      "Author":"Ali Hasan",
+      "Author_Img": "https://i.ibb.co/4KkrxjN/portrait-happy-smiley-man-23-2149022627.jpg",
+      "Author_Designation": "Physical Eucation Trainer"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/ZJYnp37/premium-photo-1663100678842-d89cb7b084ee-ixlib-rb-4-0.jpg",
+      "Course_Name": "Basic & Advanced Graphics Design",
+      "Category_Name": "Design",
+      "Price": 300,
+      "Description":"Unleash your creativity with our Graphics Design courses. Gain expertise in using industry-standard design software and delve into typography, color theory, and visual storytelling. Whether you're an aspiring designer or looking to enhance your graphic design skills, our courses provide the tools and knowledge to create stunning visuals for various purposes.",
+      "Author":"Miraz Khan",
+      "Author_Img": "https://i.ibb.co/4KkrxjN/portrait-happy-smiley-man-23-2149022627.jpg",
+      "Author_Designation": "Full Stack Grapics Designer"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/44sGyhN/pexels-photo-2280571.jpg",
+      "Course_Name": "Exploring the Wonders of the Universe: An Introduction to Astronomy",
+      "Category_Name": "Science",
+      "Price": 200,
+      "Description":"Explore the wonders of the natural world with our Science courses. From biology and chemistry to physics and environmental science, our programs offer a comprehensive understanding of scientific principles. Dive into cutting-edge research, laboratory techniques, and the latest developments in various scientific disciplines. Whether you're a budding scientist or simply curious about the world around you, our courses provide a solid foundation for exploring the marvels of science.",
+      "Author":"Abid Hossain",
+      "Author_Img": "https://i.ibb.co/4KkrxjN/portrait-happy-smiley-man-23-2149022627.jpg",
+      "Author_Designation": "Scientist"
+    }
+  ]
+  

@@ -1,0 +1,7 @@
+.appliedJobsBg{
+    background-image: url(https://i.ibb.co/4gTzgnf/bg1.png), url(https://i.ibb.co/k1QJMr6/bg2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom, right top;
+    background-size: contain;
+    padding: 120px 7%;
+}

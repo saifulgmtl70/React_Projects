@@ -1,0 +1,74 @@
+[
+    {
+       "id": 1,
+       "img": "https://www.codingthai.com/wp-content/uploads/2022/07/wordpress-feature-image-c-programming-1024x536.png",
+       "course_title": "Introduction to C Programming",
+       "course_details": "It is a long established fact that a reader will be distracted by the readable content  of a page when looking at its layout",
+       "price": 15000,
+       "credit": 1
+    },
+    {
+       "id": 2,
+       "img": "https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-Algorithm.jpg",
+       "course_title": "Introduction to Algorithms",
+       "course_details": "It is a long established fact that a reader will be distracted by the readable content  of a page when looking at its layout",
+       "price": 25000,
+       "credit": 2
+    },
+    {
+       "id": 3,
+       "img": "https://cdn.educba.com/academy/wp-content/uploads/2015/08/Data-Structures-and-Algorithms-C-1.jpg",
+       "course_title": "Introduction to C++ for DSA",
+       "course_details": "It is a long established fact that a reader will be distracted by the readable content  of a page when looking at its layout",
+       "price": 10000,
+       "credit": 10
+    },
+    {
+       "id": 4,
+       "img": "https://miro.medium.com/v2/resize:fit:720/format:webp/0*wyLfEkXtPGB2HnhW.jpg",
+       "course_title": "Basic Data Structures",
+       "course_details": "It is a long established fact that a reader will be distracted by the readable content  of a page when looking at its layout",
+       "price": 35000,
+       "credit": 5
+    },
+    {
+       "id": 5,
+       "img": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-nfPtha40b_7aN6HttPFzg.png",
+       "course_title": "Introduction to OOP Python",
+       "course_details": "It is a long established fact that a reader will be distracted by the readable content  of a page when looking at its layout",
+       "price": 19000,
+       "credit": 5
+    },
+    {
+       "id": 6,
+       "img": "https://www.wallpapertip.com/wmimgs/83-838056_software-engineer-images-hd.jpg",
+       "course_title": "Software Engineering",
+       "course_details": "It is a long established fact that a reader will be distracted by the readable content  of a page when looking at its layout",
+       "price": 23000,
+       "credit": 2
+    },
+    {
+       "id": 7,
+       "img": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/aws-1.png",
+       "course_title": "AWS, Cloud Computing",
+       "course_details": "It is a long established fact that a reader will be distracted by the readable content  of a page when looking at its layout",
+       "price": 35000,
+       "credit": 5
+    },
+    {
+       "id": 8,
+       "img": "https://www.cloudways.com/blog/wp-content/uploads/Main-Image_750x394-57.jpg",
+       "course_title": "Database (MySQL)",
+       "course_details": "It is a long established fact that a reader will be distracted by the readable content  of a page when looking at its layout",
+       "price": 19000,
+       "credit": 5
+    },
+    {
+       "id": 9,
+       "img": "https://www.chieflearningofficer.com/wp-content/uploads/2016/02/CO_0316_Feat3_WEB1.jpg",
+       "course_title": "Problem-Solving Part",
+       "course_details": "It is a long established fact that a reader will be distracted by the readable content  of a page when looking at its layout",
+       "price": 23000,
+       "credit": 2
+    }
+ ]

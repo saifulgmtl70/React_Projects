@@ -1,0 +1,48 @@
+.country_container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.visitedBtn{
+    background-color: tomato;
+    color: #fff;
+    padding: 12px 20px;
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    letter-spacing: 1.2px;
+}
+
+.visitedBtn:hover,
+.visitedBtn:focus{
+    border: 0;
+    outline: 0;
+}
+
+.visited{
+    background-color: gray;
+}
+.non_visited{
+    background-color: white;
+}
+
+
+
+
+@media screen and (max-width: 890px){
+    .country_container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+
+@media screen and (max-width: 560px){
+    .country_container{
+        grid-template-columns: 1fr;
+    }
+}

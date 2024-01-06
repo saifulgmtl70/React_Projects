@@ -1,0 +1,25 @@
+.bg_banner{
+    background: url('https://i.ibb.co/hYdpbx8/bg-banner.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 150px 7%;
+    height: 80vh;
+
+    position: relative;
+    z-index: 1;
+}
+
+.bg_banner::after{
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.95);
+    opacity: .95;
+    z-index: -1;
+}

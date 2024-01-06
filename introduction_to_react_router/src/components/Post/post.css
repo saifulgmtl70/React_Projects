@@ -1,0 +1,9 @@
+.posts{
+    border: 1px solid tomato;
+    padding: 20px 50px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}

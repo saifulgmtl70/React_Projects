@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "Rolex Submariner",
+      "price": 10000,
+      "image": "https://images.unsplash.com/photo-1585123334904-845d60e97b29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2F0Y2hlc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 2,
+      "name": "Omega Speedmaster",
+      "price": 8500,
+      "image": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2F0Y2hlc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 3,
+      "name": "Tag Heuer Carrera",
+      "price": 7500,
+      "image": "https://images.unsplash.com/photo-1557531365-e8b22d93dbd0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8d2F0Y2hlc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "name": "Seiko Prospex",
+      "price": 600,
+      "image": "https://images.unsplash.com/photo-1528968620-57e0257ff360?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHdhdGNoZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "name": "Citizen Eco-Drive",
+      "price": 250,
+      "image": "https://images.unsplash.com/photo-1525740664269-1bb17f251737?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHdhdGNoZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "name": "Fossil Grant",
+      "price": 120,
+      "image": "https://images.unsplash.com/photo-1629581678313-36cf745a9af9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHdhdGNoZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
+      "id": 7,
+      "name": "Casio G-Shock",
+      "price": 100,
+      "image": "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdhdGNofGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 8,
+      "name": "Bulova Precisionist",
+      "price": 300,
+      "image": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHdhdGNofGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 9,
+      "name": "Timex Weekender",
+      "price": 50,
+      "image": "https://images.unsplash.com/photo-1622434641406-a158123450f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHdhdGNofGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 10,
+      "name": "Swatch Originals",
+      "price": 80,
+      "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHdhdGNofGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
+  

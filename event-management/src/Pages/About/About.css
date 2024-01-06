@@ -1,0 +1,79 @@
+.box
+{
+    background-color: #fff;
+    width: 230px;
+}
+
+.box .box_image
+{
+    text-align: center;
+    position: relative;
+}
+
+.box .box_image img
+{
+    width: 230px;
+    height: 220px;
+}
+
+.box .box_image .overlay
+{
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 220px;
+    width: 230px;
+    transition: .4s;
+    transform-origin: bottom top;
+    opacity: 0;
+    background-color: #000000;
+}
+
+.box .box_image .overlay .icon
+{
+    margin-top: 160px;
+    background-color: #dc4328;
+}
+
+.box .box_image .overlay .icon Link
+{
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin: 0 2px;
+    font-weight: bolder;
+    color: tomato;
+}
+
+.box .box_image .overlay .icon Link:hover
+{
+    background-color: #057aa8;
+    color: #fff;
+}
+
+.box:hover .overlay
+{
+    opacity: .7;
+    transition: all .6s ease;
+}
+
+
+
+
+.box .box_image h4
+{
+    color: #05274b;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.box .box_image p
+{
+    color: #4b5158;
+    font-size: 15px;
+    padding-bottom: 10px;
+}

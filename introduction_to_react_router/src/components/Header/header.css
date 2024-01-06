@@ -1,0 +1,22 @@
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+ul li{
+    list-style: none;
+
+}
+
+ul li a{
+
+    color: #171a37;
+}
+
+ul li a.active{
+    background-color: tomato;
+    color: #fff;
+    padding: 4px 10px;
+}

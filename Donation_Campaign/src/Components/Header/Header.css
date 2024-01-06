@@ -1,0 +1,13 @@
+.menu li > *:not(ul):not(.menu-title):not(details):active, .menu li > *:not(ul):not(.menu-title):not(details).active, .menu li > details > summary:active {
+    --tw-bg-opacity: 0;
+    background-color: transparent;
+    --tw-text-opacity: 1;
+    color: #ff2929;
+    border-bottom: 1px solid #d64862;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+
+}
